@@ -42,6 +42,6 @@ and
 
 You can download the code by:
 
-    git clone https://github.com/gabrieldgf4/disparity_refinement_SCC.git
-    cd disparity_refinement_SCC
+    git clone https://github.com/gabrieldgf4/disparity-refinement-SCC.git
+    cd disparity-refinement-SCC
 
