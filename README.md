@@ -34,7 +34,7 @@ and
                   Salvini, Rogério},
         Title = {Disparity Map Adjustment: a Post-Processing Technique},
         booktitle={2018 IEEE Symposium on Computers and Communications (ISCC)}, 
-        doi={10.1109/ISCC.2018.8538562}},
+        doi={10.1109/ISCC.2018.8538562},
         year={2018}
     }
 
