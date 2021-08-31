@@ -1,2 +1,30 @@
 # disparity_refinment_SCC
 It is the Segment Consistency Check (SCC) code for the refinement of disparity maps
+
+This project presents the SCC method for the refinement of disparity maps. It is related to the research field of stereo vision in which we can estimate depth information from a pair of images.
+
+Original papers URL: [https://ieeexplore.ieee.org/document/8671683](https://ieeexplore.ieee.org/document/8671683)
+                     [https://ieeexplore.ieee.org/document/8538562](https://ieeexplore.ieee.org/document/8538562)
+
+If you use this project, cite:
+
+    @article{gabrielCJECE2018,
+        Author = Author={Vieira, Gabriel and 
+                  Soares, Fabrizzio and
+                  Laureano, Gustavo and 
+                  Parreira, Rafael and 
+                  Ferreira, Julio},
+        Title = {A Segmented Consistency Check Approach to Disparity Map Refinement},
+        journal={Canadian Journal of Electrical and Computer Engineering},
+        volume={41},
+        number={4},
+        pages={218-223},
+        doi={10.1109/CJECE.2019.2890986}},
+        year={2018}
+    }
+    
+You can download the code by:
+
+    git clone https://github.com/gabrieldgf4/disparity_refinement_SCC.git
+    cd disparity_refinement_SCC
+
