@@ -37,7 +37,9 @@ and
         doi={10.1109/ISCC.2018.8538562}},
         year={2018}
     }
-    
+
+![alt tag](https://user-images.githubusercontent.com/63321757/131569537-012c8a07-b334-403e-86f8-b1e84a68efda.png)
+
 You can download the code by:
 
     git clone https://github.com/gabrieldgf4/disparity_refinement_SCC.git
