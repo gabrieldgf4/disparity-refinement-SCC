@@ -19,7 +19,7 @@ If you use this project, cite:
         volume={41},
         number={4},
         pages={218-223},
-        doi={10.1109/CJECE.2019.2890986}},
+        doi={10.1109/CJECE.2019.2890986},
         year={2018}
     }
     
