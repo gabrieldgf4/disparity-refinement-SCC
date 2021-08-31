@@ -25,7 +25,7 @@ If you use this project, cite:
     
 and
 
-    @article{gabrielISCC2018,
+    @INPROCEEDINGS{gabrielISCC2018,
         Author = Author={Vieira, Gabriel and 
                   Soares, Fabrizzio and
                   Laureano, Gustavo and 
